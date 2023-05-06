@@ -18,7 +18,7 @@ You can download from following links:
 
 3. Navigate to your project directory:
 ```bash
-  cd my-app
+  cd laravel-app-with-nginx-mysql-and-docker-compose
 ```
     
 
